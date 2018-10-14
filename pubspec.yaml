@@ -1,0 +1,6 @@
+name : dartAuth
+description : It's user login and register system usign dart
+
+dependencies:
+  analyzer: ^0.33.0
+  sqljocky: ^0.14.1
